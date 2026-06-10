@@ -22,6 +22,7 @@ Passionate about building things for the web and always learning something new.
 ## 📂 Featured project
 
 - 🥁 [Musical Drums](https://github.com/IsadoraEaston/Musical-Drums) — A Simon-style memory game built with HTML, CSS & JavaScript
+- 💱 [Currency Converter](https://currency-converter-three-sigma-84.vercel.app) — Real-time currency converter · [GitHub](https://github.com/IsadoraEaston/currency-converter)
 
 ## 📫 Get in touch
 
