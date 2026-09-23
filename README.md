@@ -63,7 +63,7 @@ Before tech, I founded and ran my own ready-to-wear fashion business - managing 
 ## 📫 Let's connect
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-isadoraeaston.github.io-2EA44F?style=flat&logo=githubpages&logoColor=white)](https://isadoraeaston.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-doriseaston-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/doriseaston)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-isadoraeaston-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/isadoraeaston)
 [![Email](https://img.shields.io/badge/Email-dorisaeaston@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:dorisaeaston@gmail.com)
 
 Open to internships and collaborations · *Ouverte aux stages et collaborations*
