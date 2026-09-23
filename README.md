@@ -1,6 +1,6 @@
 # Hi, I'm Isabelle D. Easton (Isadora) 👋
 
-**Web developer & Machine Learning enthusiast · Montréal, Canada 🇨🇦**
+**Web developer & Machine Learning enthusiast · Montréal, Canada**<br>
 *Développeuse web et passionnée d'apprentissage automatique*
 
 Before tech, I founded and ran my own ready-to-wear fashion business - managing sales, inventory, clients and teams. A WooCommerce e-commerce project sparked my move into development. Today I'm a Computer Science Techniques student (DEC) at Collège LaSalle, bringing a business owner's eye for real-world problems to the code I write.
