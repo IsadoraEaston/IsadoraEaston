@@ -41,7 +41,7 @@ Before tech, I founded and ran my own ready-to-wear fashion business - managing 
 
 | Project | Stack | Highlights |
 |---|---|---|
-| 🏠 [Remax Immobilier](https://github.com/IsadoraEaston/remax-winforms-app) | C# · WinForms · SQL Server · ADO.NET | Multi-tier real estate app with role-based access (Admin / Agent / User) - graded **90/100** |
+| 🏠 [Remax Immobilier](https://github.com/IsadoraEaston/remax-winforms-app) | C# · WinForms · SQL Server · ADO.NET | Multi-tier real estate app with role-based access (Admin / Agent / User) 
 | 🌳 [Annuaire BST](https://github.com/IsadoraEaston/annuaire-bst) | C# · .NET 8 | Phone book on a Binary Search Tree, plus a hybrid BST + Hash Table + List version, Reingold-Tilford tree display and benchmarking — built with [@NexPathArchitect](https://github.com/NexPathArchitect) |
 | 💱 [Currency Converter](https://github.com/IsadoraEaston/currency-converter) | JavaScript · REST API | Live exchange rates for **40+ currencies** - [🌐 Live demo](https://currency-converter-three-sigma-84.vercel.app) |
 | 🤖 [ML Specialization](https://github.com/IsadoraEaston/Machine_Learning_Specialization) | Python · NumPy · TensorFlow | Regression, neural networks, decision trees, K-means, recommender systems and deep Q-learning implemented from scratch |
