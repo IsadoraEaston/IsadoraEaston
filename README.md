@@ -55,8 +55,10 @@ Before tech, I founded and ran my own ready-to-wear fashion business - managing 
 
 ## 🌱 Currently
 
-- Studying Java, data structures and PHP at Collège LaSalle
+- Studying mobile development with **Kotlin** (Android) and **Swift** (iOS) at Collège LaSalle
+- Deepening data structures and object-oriented programming in Java and C#
 - Building personal projects that combine web development and machine learning
+- Looking for a **summer 2027 internship** (May–August)
 
 ---
 
